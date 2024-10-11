@@ -1,0 +1,21 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+
+.header header {
+    display: flex;
+    flex-direction: row; 
+  
+    justify-content :center;
+    gap:15px;
+    align-items: center; 
+    padding: 10px;
+    background-color: black;
+    border-bottom: 1px solid #e0e0e0;
+}
+.btn-2,.account-options,.cart-button,.search,.input-1,.sel,.btn-1,.saving,.btn-3{
+    padding:10px;
+    background-color:#FFD700;
+}
+.inpit-1 {
+    width:2000px;
+}
+
